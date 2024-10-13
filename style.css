@@ -11,3 +11,7 @@ ul li a {
   font-size: 20px;
   color: orange;
 }
+
+section {
+  border: 2px solid Violet;
+}
