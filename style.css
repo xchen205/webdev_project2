@@ -1,4 +1,9 @@
+body {
+  background-color: maroon;
+
+}
+
 ul li {
- font-size: 20px;
- color: orange;
+  font-size: 20px;
+  color: orange;
 }
