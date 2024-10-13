@@ -12,6 +12,11 @@ ul li a {
   color: orange;
 }
 
+div id="resume" {
+  font-size: 16px;
+  color: green;
+}
+
 section {
   border: 2px solid Violet;
 }
