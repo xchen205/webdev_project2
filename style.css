@@ -3,7 +3,11 @@ body {
 
 }
 
-ul li {
+h1 {
+  font: "Comic Sans"; 
+}
+
+ul li a {
   font-size: 20px;
   color: orange;
 }
