@@ -49,6 +49,10 @@ p:hover {
   color: lightblue
 }
 
+p strong {
+  border-style: outset;
+}
+
 section {
   border: 2px solid Violet;
 }
