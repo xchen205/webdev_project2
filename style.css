@@ -6,13 +6,15 @@ h1 {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-
-#header ul {
-  list-style-type: none;
-  border-style: inset;
+#header {
+  border-style: outset;
   background-image: url("images/ocean.png"); 
   opacity: 0.3;
   background-attachment: fixed;
+}
+
+#header ul {
+  list-style-type: none;
 }
 
 #resume ul {
@@ -48,7 +50,7 @@ p:hover {
 }
 
 p strong {
-  border-style: outset;
+  border-style: inset;
 }
 
 section {
