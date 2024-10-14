@@ -50,12 +50,9 @@ p:hover {
   color: lightblue
 }
 
-p strong {
-  border-style: inset;
-}
-
 section {
   border: 2px solid Violet;
+  border-style: inset;
 }
 
 div {
