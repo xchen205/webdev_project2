@@ -9,6 +9,7 @@ h1 {
 
 #header ul {
   list-style-type: none;
+  border-style: inset;
   background-image: url("images/ocean.png"); 
   opacity: 0.3;
   background-attachment: fixed;
