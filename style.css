@@ -40,6 +40,10 @@ p {
   color: blue
 }
 
+p:hover {
+  color: purple
+}
+
 section {
   border: 2px solid Violet;
 }
