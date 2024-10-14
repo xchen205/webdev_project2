@@ -12,6 +12,7 @@ h1 {
   background-image: url("images/ocean.png"); 
   opacity: 0.3;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 #header ul {
