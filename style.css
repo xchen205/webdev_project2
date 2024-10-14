@@ -1,5 +1,6 @@
 body {
   background-color: red;
+  margin-left: 10%;
 }
 
 h1 {
@@ -58,5 +59,4 @@ section {
 }
 
 div {
-  margin-left: 10%;
 }
