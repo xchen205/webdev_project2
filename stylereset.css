@@ -12,7 +12,7 @@ ul li a {
   color: orange;
 }
 
-ul li a hover{
+ul li a:hover{
   font-size: 20px;
   color: yellow;
 }
