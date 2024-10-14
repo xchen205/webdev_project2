@@ -2,7 +2,7 @@ html {
   color: blue;
 }
 
-hover {
+html a:hover {
   color: lightblue;
 }
 
