@@ -13,12 +13,12 @@ ul {
 }
 
 
-ul li a {
+#header ul li a {
   font-size: 20px;
   color: orange;
 }
 
-ul li a:hover{
+#header ul li a:hover{
   font-size: 20px;
   color: yellow;
 }
