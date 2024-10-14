@@ -10,6 +10,8 @@ html a:hover {
 body {
   background-color: red;
   margin-left: 10%;
+  border: 2% solid pink;
+  border-style: inset;
 }
 
 h1 {
@@ -61,7 +63,7 @@ p:hover {
 }*/
 
 section {
-  border: 2px solid Violet;
+  border: 2% solid Violet;
   border-style: inset;
 }
 
