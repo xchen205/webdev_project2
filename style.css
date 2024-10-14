@@ -1,6 +1,10 @@
 body {
   background-color: red;
-
+}
+  
+body {  
+  background-image: url("images/ocean.png"); 
+  opacity: 0.3;
 }
 
 h1 {
@@ -41,7 +45,7 @@ p {
 }
 
 p:hover {
-  color: purple
+  color: lightblue
 }
 
 section {
