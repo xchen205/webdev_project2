@@ -1,3 +1,12 @@
+html {
+  color: blue;
+}
+
+hover {
+  color: lightblue;
+}
+
+
 body {
   background-color: red;
   margin-left: 10%;
@@ -43,13 +52,13 @@ h1 {
   color: lime;
 }
 
-p {
+/*p {
   color: blue
 }
 
 p:hover {
   color: lightblue
-}
+}*/
 
 section {
   border: 2px solid Violet;
