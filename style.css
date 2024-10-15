@@ -47,7 +47,13 @@ h1 {
   color: yellow;
 }
 
-h1, h2, p, ul, li, strong {
+p, ul, li{
+  padding: 10%;
+  color: blue;
+}
+
+h1, h2, h3, strong {
+  padding: 5%;
   color: blue;
 }
 
