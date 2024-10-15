@@ -12,12 +12,12 @@ h1 {
 
 #header {
   border-style: outset;
-  font-size: 20px;
 }
 
 #header ul {
   list-style-type: none;
   position: center;
+  font-size: 20px;
 }
 
 #header ul li a {
@@ -72,6 +72,10 @@ img, video {
 /*
 main page css
 */
+
+#words section{
+  background-color: rgba(255, 127, 127, 0.5);
+}
 
 #thumbsup-pic {
   border: 5%
