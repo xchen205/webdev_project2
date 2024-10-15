@@ -2,7 +2,7 @@ body {
   background-image: url("images/ocean.png");
   margin-left: 5%;
   margin-right: 5%;
-  border: 5% solid pink;
+  border: 5px solid pink;
   border-style: inset;
 }
 
@@ -58,7 +58,7 @@ div {
 
 section {
   opacity: 1;
-  border: 3% solid purple;
+  border: 5px solid purple;
   border-style: inset;
   padding-left: 5%
 }
