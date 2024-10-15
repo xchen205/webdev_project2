@@ -33,7 +33,7 @@ p, h2, h3, strong, ul, li {
 }
 
 h1 {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Audiowide", cursive, sans-serif;
   color: blue;
   text-align: center;
   text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
@@ -126,7 +126,7 @@ stuff page css
 }
 
 #the-video p {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Audiowide", cursive, sans-serif;
 }
 
 #the-video:hover {
