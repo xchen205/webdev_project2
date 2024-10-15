@@ -8,7 +8,7 @@ html a:hover {
 
 
 body {
-  background-color: red;
+  background-image: url("images/ocean.png");
   margin-left: 10%;
   border: 2% solid pink;
   border-style: inset;
@@ -20,8 +20,6 @@ h1 {
 
 #header {
   border-style: outset;
-  background-image: url("images/ocean.png"); 
-  opacity: 0.3;
   background-attachment: fixed;
   background-size: contain;
 }
@@ -63,6 +61,7 @@ p:hover {
 }*/
 
 section {
+  background-color: red;
   border: 2% solid Violet;
   border-style: inset;
 }
