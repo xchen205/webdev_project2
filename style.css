@@ -51,7 +51,7 @@ h1, h2, p, ul, li, strong {
   color: blue;
 }
 
-h2 {
+h2, h3 {
  color: pink;
 }
 
@@ -59,7 +59,7 @@ h1:hover, p:hover, ul:hover, li:hover {
   color: lightblue;
 }
 
-h2:hover {
+h2:hover, h3:hover {
   color: lightpink;
 }
 
