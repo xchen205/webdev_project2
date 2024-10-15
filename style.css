@@ -19,24 +19,6 @@ h1 {
   position: center;
 }
 
-#resume-nav {
-  background-color: background-color: rgba(255, 255, 0, 0.5);
-}
-
-#resume-nav ul {
-  list-style-type: none;
-}
-
-#resume-nav ul li a{
-  font-size: 16px;
-  color: green;
-}
-
-#resume-nav ul li a:hover {
-  font-size: 16px;
-  color: lime;
-}
-
 #header ul li a {
   font-size: 20px;
   color: orange;
@@ -47,16 +29,11 @@ h1 {
   color: yellow;
 }
 
-p, ul{
-  padding-left: 10%;
-  color: blue;
-}
-
 li {
   color: blue;
 }
 
-h1, h2, h3, strong {
+p, ul, h1, h2, h3, strong {
   padding-left: 5%;
   color: blue;
 }
@@ -92,3 +69,34 @@ img, video {
  margin-top: 5%;
  margin-bottom: 5%;
 }
+
+/*
+main page css
+*/
+
+/*
+resume page css
+*/
+
+#resume-nav {
+  background-color: background-color: rgba(255, 255, 0, 0.5);
+}
+
+#resume-nav ul {
+  list-style-type: none;
+}
+
+#resume-nav ul li a{
+  font-size: 16px;
+  color: green;
+}
+
+#resume-nav ul li a:hover {
+  font-size: 16px;
+  color: lime;
+}
+
+/*
+stuff page css
+*/
+
