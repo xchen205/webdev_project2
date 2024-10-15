@@ -50,7 +50,6 @@ h1 {
 
 h1, h2, p, ul, li {
   color: blue;
-  opacity: 1;
 }
 
 h1:hover, h2:hover, p:hover, ul:hover, li:hover {
@@ -61,6 +60,10 @@ div {
   margin-left: 10%;
   background-color: red;
   opacity: 0.5;
+}
+
+section {
+  opacity: 1;
   border: 3% solid purple;
   border-style: inset;
 }
