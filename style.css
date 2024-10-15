@@ -1,7 +1,7 @@
 body {
   background-image: url("images/ocean.png");
   margin-left: 10%;
-  border: 2% solid pink;
+  border: 3% solid pink;
   border-style: inset;
 }
 
@@ -21,7 +21,7 @@ h1 {
 
 #resume-nav {
   background-color: yellow;
-  opacity: 0.25;
+  opacity: 0.5;
 }
 
 #resume-nav ul {
@@ -49,19 +49,18 @@ h1 {
 }
 
 h1, h2, p, ul, li {
-  color: blue
+  color: blue;
+  opacity: 1;
 }
 
 h1:hover, h2:hover, p:hover, ul:hover, li:hover {
-  color: lightblue
-}
-
-section {
-  background-color: red;
-  opacity: 0.25;
-  border: 2% solid violet;
-  border-style: inset;
+  color: lightblue;
 }
 
 div {
+  margin-left: 10%;
+  background-color: red;
+  opacity: 0.5;
+  border: 3% solid purple;
+  border-style: inset;
 }
