@@ -48,12 +48,12 @@ h1 {
 }
 
 p, ul, li{
-  padding: 10%;
+  padding-left: 10%;
   color: blue;
 }
 
 h1, h2, h3, strong {
-  padding: 5%;
+  padding-left: 5%;
   color: blue;
 }
 
