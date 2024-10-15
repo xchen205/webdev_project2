@@ -1,6 +1,7 @@
 body {
   background-image: url("images/ocean.png");
-  margin-left: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   border: 3% solid pink;
   border-style: inset;
 }
