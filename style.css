@@ -82,3 +82,8 @@ section {
   border: 3% solid purple;
   border-style: inset;
 }
+
+img, video {
+ margin-left: 5%;
+ margin-top: 5%
+}
