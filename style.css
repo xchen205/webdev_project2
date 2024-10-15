@@ -51,8 +51,16 @@ h1, h2, p, ul, li, strong {
   color: blue;
 }
 
-h1:hover, h2:hover, p:hover, ul:hover, li:hover {
+h2 {
+ color: pink;
+}
+
+h1:hover, p:hover, ul:hover, li:hover {
   color: lightblue;
+}
+
+h2:hover {
+  color: lightpink;
 }
 
 strong:hover {
