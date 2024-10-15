@@ -82,7 +82,7 @@ main page css
 
 #main-content {
    background-image: url("images/ocean.png");
-   background-size: contain
+   background-size: contain;
 }
 
 /*
@@ -115,7 +115,11 @@ resume page css
 stuff page css
 */
 
-#apple-pic, #hand-pic {
+#stuff-page div a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#apple-pic img, #hand-pic img {
   border: 20px;
   border-style: outset;
 }
