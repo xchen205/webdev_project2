@@ -29,11 +29,11 @@ h1 {
   color: yellow;
 }
 
-li {
+ul, li {
   color: blue;
 }
 
-p, ul, h1, h2, h3, strong {
+p, h1, h2, h3, strong {
   padding-left: 5%;
   color: blue;
 }
