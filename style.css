@@ -34,7 +34,6 @@ ul, li {
 }
 
 p, h1, h2, h3, strong {
-  padding-left: 5%;
   color: blue;
 }
 
@@ -62,6 +61,7 @@ section {
   opacity: 1;
   border: 3% solid purple;
   border-style: inset;
+  padding-left: 5%
 }
 
 img, video {
