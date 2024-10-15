@@ -80,6 +80,10 @@ main page css
   border-style: outset;
 }
 
+#main-content {
+   background-image: url("images/ocean.png");
+}
+
 /*
 resume page css
 */
