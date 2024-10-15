@@ -118,15 +118,16 @@ resume page css
 stuff page css
 */
 
-#stuff-page div a:hover {
-  background-color: rgba(0, 0, 0, 0);
-}
-
 #apple-pic img, #hand-pic img {
   border: 20px;
+  border-color: gray;
   border-style: outset;
 }
 
-#the-video a:hover {
+#the-video p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#the-video:hover {
   background-color: rgba(1,1,1,0);
 }
