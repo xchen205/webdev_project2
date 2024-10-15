@@ -11,12 +11,11 @@ h1 {
 
 #header {
   border-style: outset;
-  background-attachment: fixed;
-  background-size: contain;
 }
 
 #header ul {
   list-style-type: none;
+  position: center;
 }
 
 #resume-nav {
