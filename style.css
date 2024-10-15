@@ -54,7 +54,7 @@ h2:hover, h3:hover {
 }
 
 div {
-  background-color: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(255, 0, 0, 0));
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(255, 0, 0, 0));
 }
 
 section {
@@ -84,7 +84,7 @@ main page css
 }
 
 #main-content {
-  background-image: linear-gradient(url("images/ocean.png"), rgba(255, 0, 0, 0.5));
+  background-image: linear-gradient(to right, url("images/ocean.png"), rgba(255, 0, 0, 0.5));
   background-size: contain;
 }
 
