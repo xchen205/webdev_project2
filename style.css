@@ -74,6 +74,8 @@ img, video {
 main page css
 */
 
+
+
 /*
 resume page css
 */
@@ -100,8 +102,10 @@ resume page css
   background-color: rgba(127, 0, 0, 0.5);
 }
 
-
 /*
 stuff page css
 */
 
+#stuff-page video a:hover {
+ background-color: rgba(1,1,1,0);
+}
