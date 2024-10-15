@@ -53,7 +53,7 @@ h2:hover, h3:hover {
 }
 
 div {
-  background-color: rgba(255, 0, 0, 0.5), rgba(255, 0, 0, 0);
+  background-color: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(255, 0, 0, 0));
 }
 
 section {
