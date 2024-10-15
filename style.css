@@ -114,6 +114,11 @@ resume page css
 stuff page css
 */
 
+#apple-pic, #hand-pic {
+  border: 20px;
+  border-style: outset;
+}
+
 #the-video a:hover {
  background-color: rgba(1,1,1,0);
 }
