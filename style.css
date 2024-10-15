@@ -2,7 +2,7 @@ body {
   background-image: url("images/ocean.png");
   margin-left: 5%;
   margin-right: 5%;
-  border: 3% solid pink;
+  border: 5% solid pink;
   border-style: inset;
 }
 
@@ -28,28 +28,26 @@ h1 {
   color: yellow;
 }
 
-ul, li {
+p, h2, h3, strong, ul, li {
   color: blue;
 }
 
-p, h1, h2, h3, strong {
+h1 {
   color: blue;
+  padding-left: 5%;
 }
 
 h2, h3 {
- color: pink;
+  color: pink;
 }
 
-h1:hover, p:hover, ul:hover, li:hover {
-  color: lightblue;
+h1:hover, p:hover, ul:hover, li:hover, strong:hover {
+  color: darkblue;
 }
+
 
 h2:hover, h3:hover {
-  color: white;
-}
-
-strong:hover {
-  color: darkblue;
+  color: fuchsia;
 }
 
 div {
@@ -78,7 +76,7 @@ main page css
 }
 
 #thumbsup-pic {
-  border: 5%
+  border: 5%;
   border-style: outset;
 }
 
