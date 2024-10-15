@@ -8,12 +8,11 @@ body {
 
 #header {
   border-style: outset;
-  padding-left: top center;
+  position: top center;
 }
 
 #header ul {
   list-style-type: none;
-  position: center;
   font-size: 20px;
 }
 
