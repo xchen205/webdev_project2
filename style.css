@@ -12,6 +12,7 @@ h1 {
 
 #header {
   border-style: outset;
+  font-size: 20px;
 }
 
 #header ul {
@@ -20,12 +21,10 @@ h1 {
 }
 
 #header ul li a {
-  font-size: 20px;
   color: orange;
 }
 
 #header ul li a:hover{
-  font-size: 20px;
   color: yellow;
 }
 
@@ -65,9 +64,9 @@ section {
 }
 
 img, video {
- margin-left: 5%;
- margin-top: 5%;
- margin-bottom: 5%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 /*
