@@ -79,7 +79,7 @@ resume page css
 */
 
 #resume-nav {
-  background-color: background-color: rgba(255, 255, 0, 0.5);
+  background-color: rgba(255, 255, 0, 0.5);
 }
 
 #resume-nav ul {
@@ -95,6 +95,11 @@ resume page css
   font-size: 16px;
   color: lime;
 }
+
+#skills, #leadership {
+  background-color: rgba(127, 0, 0, 0.5);
+}
+
 
 /*
 stuff page css
