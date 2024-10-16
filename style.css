@@ -97,17 +97,16 @@ resume page css
 }
 
 #resume-nav ul {
+text-align: center;
   list-style-type: none;
 }
 
 #resume-nav ul li a{
-  text-align: center;
   font-size: 2em;
   color: green;
 }
 
 #resume-nav ul li a:hover {
-  text-align: center;
   font-size: 2em;
   color: lime;
   text-shadow: 1.5em 1.5em 1.5em rgba(127, 190, 127, 0.25);
