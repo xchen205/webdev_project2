@@ -18,6 +18,10 @@ body {
   display: inline;
 }
 
+#header ul li {
+  display: inline;
+}
+
 #header ul li a {
   color: orange;
   text-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.25);
@@ -102,6 +106,11 @@ resume page css
   list-style-type: none;
   display: inline;
 }
+
+#resume-nav ul li {
+  display: inline;
+}
+
 
 #resume-nav ul li a{
   font-size: 1.5em;
