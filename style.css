@@ -15,6 +15,7 @@ body {
   list-style-type: none;
   font-size: 2em;
   text-align: center;
+  display: inline;
 }
 
 #header ul li a {
@@ -97,8 +98,9 @@ resume page css
 }
 
 #resume-nav ul {
-text-align: center;
+  text-align: center;
   list-style-type: none;
+  display: inline;
 }
 
 #resume-nav ul li a{
