@@ -86,6 +86,7 @@ main page css
 #thumbsup-pic {
   border: 20px;
   border-style: outset;
+  float: right;
 }
 
 #main-content {
