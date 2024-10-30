@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/ocean.png");
+  background-image: url("../images/ocean.png");
   margin-left: 5%;
   margin-right: 5%;
   border: 5px solid pink;
@@ -91,7 +91,7 @@ main page css
 }
 
 #main-content {
-  background-image: url("images/ocean.png");
+  background-image: url("../images/ocean.png");
   background-size: cover;
 }
 
