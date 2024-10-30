@@ -4,7 +4,7 @@ body {
   margin-right: 5%;
   border: 5px solid pink;
   border-style: inset;
-  background-size: contain;
+  background-size: cover;
   overflow-x: hidden;
   background-attachment: fixed;
 }
