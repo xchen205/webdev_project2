@@ -13,6 +13,7 @@ body {
 }
 
 #header ul {
+  float: left;
   list-style-type: none;
   font-size: 2em;
   text-align: center;
@@ -25,7 +26,7 @@ body {
   display: inline;
   right: 50%;
   position: relative;
-  margin-right: 2em;
+  margin-right: 1.5em;
 }
 
 #header ul li a {
@@ -118,6 +119,7 @@ resume page css
 }
 
 #resume-nav ul {
+  float: left;
   text-align: center;
   list-style-type: none;
   display: inline;
@@ -129,7 +131,7 @@ resume page css
   display: inline;
   right: 50%;
   position: relative;
-  margin-right: 1.5em;
+  margin-right: 1em;
 }
 
 #resume-nav ul li a{
