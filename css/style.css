@@ -117,6 +117,7 @@ resume page css
 }
 
 #resume-nav ul {
+  float: left;
   text-align: center;
   list-style-type: none;
   display: inline;
