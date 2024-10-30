@@ -17,10 +17,12 @@ body {
   font-size: 2em;
   text-align: center;
   display: inline;
+  left: 50%
 }
 
 #header ul li {
   display: inline;
+  right: 50%
 }
 
 #header ul li a {
@@ -113,10 +115,12 @@ resume page css
   text-align: center;
   list-style-type: none;
   display: inline;
+  left: 50%
 }
 
 #resume-nav ul li {
   display: inline;
+  right: 50%
 }
 
 #resume-nav ul li a{
