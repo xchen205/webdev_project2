@@ -91,7 +91,7 @@ main page css
 
 #main-content {
   background-image: url("images/ocean.png");
-  background-size: contain;
+  background-size: cover;
 }
 
 /*
