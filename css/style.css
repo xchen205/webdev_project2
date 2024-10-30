@@ -99,6 +99,7 @@ main page css
   border-style: outset;
   float: right;
   padding: 10px;
+  margin: 10px;
 }
 
 #main-content {
@@ -153,11 +154,13 @@ stuff page css
   border-color: gray;
   border-style: outset;
   float: right;
+  margin: 10px;
 }
 
 #the-video p {
   font-family: "Audiowide", cursive, sans-serif;
   float: right;
+  margin: 10px;
 }
 
 #the-video:hover {
