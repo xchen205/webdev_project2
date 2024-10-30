@@ -24,6 +24,7 @@ body {
 #header ul li {
   display: inline;
   right: 50%;
+  position: relative;
 }
 
 #header ul li a {
@@ -123,6 +124,7 @@ resume page css
 #resume-nav ul li {
   display: inline;
   right: 50%;
+  position: relative;
 }
 
 #resume-nav ul li a{
