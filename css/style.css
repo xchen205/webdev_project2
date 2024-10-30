@@ -77,7 +77,8 @@ section {
   opacity: 1;
   border: 5px solid purple;
   border-style: inset;
-  padding-left: 5%
+  padding-left: 5%;
+  display: flow-root;
 }
 
 img, video {
