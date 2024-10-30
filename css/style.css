@@ -120,9 +120,11 @@ resume page css
   float: left;
   text-align: center;
   list-style-type: none;
-  display: inline;
+  display: block;
   left: 50%;
   position: relative;
+  padding: 0;
+  margin: 0;
 }
 
 #resume-nav ul li {
