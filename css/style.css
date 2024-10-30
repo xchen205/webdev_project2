@@ -5,6 +5,7 @@ body {
   border: 5px solid pink;
   border-style: inset;
   background-size: contain;
+  overflow-x: hidden;
 }
 
 #header {
