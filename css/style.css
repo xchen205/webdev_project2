@@ -4,6 +4,7 @@ body {
   margin-right: 5%;
   border: 5px solid pink;
   border-style: inset;
+  background-size: contain;
 }
 
 #header {
@@ -118,7 +119,6 @@ resume page css
   text-decoration: none;
 }
 
-
 #resume-nav ul li a{
   font-size: 1.5em;
   color: green;
@@ -130,7 +130,7 @@ resume page css
   text-shadow: 0.5em 0.5em 0.5em rgba(127, 190, 127, 0.25);
 }
 
-#skills, #leadership {
+#leadership {
   background-color: rgba(127, 0, 0, 0.5);
 }
 
