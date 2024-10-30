@@ -20,6 +20,7 @@ body {
 
 #header ul li {
   display: inline;
+  text-decoration: none;
 }
 
 #header ul li a {
@@ -110,6 +111,7 @@ resume page css
 
 #resume-nav ul li {
   display: inline;
+  text-decoration: none;
 }
 
 
@@ -119,7 +121,7 @@ resume page css
 }
 
 #resume-nav ul li a:hover {
-  font-size: 2em;
+  font-size: 1.5em;
   color: lime;
   text-shadow: 0.5em 0.5em 0.5em rgba(127, 190, 127, 0.25);
 }
