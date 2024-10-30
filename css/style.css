@@ -40,7 +40,7 @@ p, h2, h3, strong, ul, li {
 
 h1 {
   font-family: "Audiowide", cursive, sans-serif;
-  color: lightblue;
+  color: white;
   text-align: center;
   text-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.25);
 }
@@ -50,10 +50,13 @@ h2, h3 {
   text-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.25);
 }
 
-h1:hover, p:hover, ul:hover, li:hover, strong:hover {
-  color: darkblue;
+h1:hover {
+  color: lightgray;
 }
 
+p:hover, ul:hover, li:hover, strong:hover {
+  color: skyblue;
+}
 
 h2:hover, h3:hover {
   color: fuchsia;
