@@ -93,6 +93,7 @@ main page css
   border: 20px;
   border-style: outset;
   float: right;
+  padding: 10px;
 }
 
 #main-content {
