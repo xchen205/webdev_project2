@@ -6,6 +6,7 @@ body {
   border-style: inset;
   background-size: contain;
   overflow-x: hidden;
+  background-attachment: fixed;
 }
 
 #header {
