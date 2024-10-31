@@ -123,13 +123,12 @@ resume page css
   text-align: center;
   list-style-type: none;
   display: block;
-  left: 50%;
   position: relative;
+  padding: 0;
 }
 
 #resume-nav ul li {
   display: inline;
-  right: 50%;
   position: relative;
 }
 
