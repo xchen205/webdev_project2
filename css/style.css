@@ -161,9 +161,13 @@ stuff page css
   margin: 10px;
 }
 
+#the-video {
+ float: right;
+}
+
 #the-video p {
   font-family: "Audiowide", cursive, sans-serif;
-  float: right;
+  float: left;
   margin: 10px;
 }
 
