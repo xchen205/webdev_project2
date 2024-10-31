@@ -80,6 +80,7 @@ section {
   border: 5px solid purple;
   border-style: inset;
   padding-left: 5%;
+  padding-right: 5%;
   display: flow-root;
 }
 
@@ -125,8 +126,6 @@ resume page css
   display: block;
   left: 50%;
   position: relative;
-  padding: 0;
-  margin: 0;
 }
 
 #resume-nav ul li {
