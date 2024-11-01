@@ -174,3 +174,7 @@ stuff page css
 #the-video:hover {
   background-color: rgba(1,1,1,0);
 }
+
+#hand-pic {
+  display: block;
+}
